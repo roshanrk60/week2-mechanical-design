@@ -1,2 +1,2 @@
 # week2-mechanical-design
-Interior 
+, I designed a precision mounting bracket in Autodesk Fusion with exact dimensions of 100mm × 60mm × 8mm, featuring four M8 mounting holes and a central 20mm clearance hole with filleted edges. I applied core mechanical design skills including 2D sketching with constraints, parametric extrusion, boolean cut operations, and edge finishing. The main challenge was ensuring all sketch profiles were fully constrained before extruding to avoid dimension errors.
